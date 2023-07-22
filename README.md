@@ -1,3 +1,6 @@
+![image](https://github.com/japkiratsingh/mg-goldy-gym/assets/80908363/c47df723-1d47-4596-a132-caeb4b797320)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
