@@ -1,4 +1,4 @@
-![Fitness-Website](https://github.com/japkiratsingh/mg-goldy-gym/assets/80908363/ee37d90c-9d46-47aa-b698-cdb4569a8b84)
+
 
 # Getting Started with Create React App
 
